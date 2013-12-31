@@ -1,0 +1,11 @@
+
+{
+    "name": "bootstrap-switch",
+    "description": "Bootstrap Switch, packaged for Meteor using less.", 
+    "homepage": "https://github.com/pfafman/meteor-bootstrap-switch",
+    "author": "Tim Pfafman <tim@pfafman.com>",
+    "version": "0.1",
+    "git": "https://github.com/pfafman/meteor-bootstrap-switch.git",
+    "packages": {
+    }
+}
