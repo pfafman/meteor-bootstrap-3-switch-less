@@ -9,14 +9,15 @@ Package.on_use(function (api, where) {
     api.use([
         'jquery', 
         'less', 
-        'coffeescript'
+        //'coffeescript'
     ], 'client');
 
     api.add_files([
         //'lib/less/bootstrap3/variables.less',
         //'lib/less/bootstrap3/mixins.less',
         //'lib/less/bootstrap3/bootstrap-switch.less',
-        'lib/coffee/bootstrap-switch.coffee'
+        //'lib/coffee/bootstrap-switch.coffee'
+        'lib/js/bootstrap-switch.js'
     ], 'client');
     
     /*
