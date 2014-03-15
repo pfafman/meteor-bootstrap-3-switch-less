@@ -20,14 +20,4 @@ Package.on_use(function (api, where) {
         'lib/js/bootstrap-switch.js'
     ], 'client');
     
-    /*
-    api.use([
-        'jquery'
-    ], 'client');
-
-    api.add_files([
-        'lib/css/bootstrap3/bootstrap-switch.css',
-        'lib/js/bootstrap-switch.js'
-    ], 'client');
-    */
 });
