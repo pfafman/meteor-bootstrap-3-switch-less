@@ -1,7 +1,7 @@
 meteor-bootstrap-3-switch-less
 ==============================
 
-Bootstrap 3 Switch, packaged for Meteor using less.
+[Bootstrap 3 Switch](http://www.bootstrap-switch.org), packaged for Meteor using less.
 
 ### Install
 
