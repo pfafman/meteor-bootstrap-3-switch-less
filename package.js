@@ -1,12 +1,12 @@
 
 Package.describe({
     summary: "Bootstrap Switch 3, packaged for Meteor using less.",
-  version: "3.0.2",
+  version: "3.2.2",
   git: "https://github.com/pfafman/meteor-bootstrap-3-switch-less.git"
 });
 
 Package.on_use(function (api, where) {
-  api.versionsFrom("METEOR@0.9.0");
+  api.versionsFrom("METEOR@1.0");
 
     
     api.use([
