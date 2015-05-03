@@ -1,7 +1,8 @@
 
 Package.describe({
+    name: "pfafman:bootstrap-switch-less",
     summary: "Bootstrap Switch 3, packaged for Meteor using less.",
-  version: "3.2.2",
+  version: "3.3.2",
   git: "https://github.com/pfafman/meteor-bootstrap-3-switch-less.git"
 });
 
@@ -11,7 +12,7 @@ Package.on_use(function (api, where) {
     
     api.use([
         'jquery', 
-        'less', 
+        //'less', 
         //'coffeescript'
     ], 'client');
 
